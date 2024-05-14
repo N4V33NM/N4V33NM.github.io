@@ -42,9 +42,6 @@ body {
   
   .image {
     border-radius: 50%;
-    width: 300px; /* Adjust the width as needed */
-    height: 300px; /* Ensure the height is the same as the width */
-    object-fit: cover; /* Ensures the image covers the whole square area */
   }
   
 
