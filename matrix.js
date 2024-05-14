@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 // Setting up the letters
-var letters = 'malwarekid';
+var letters = 'N4V33NM';
 letters = letters.split('');
 
 // Setting up the columns
